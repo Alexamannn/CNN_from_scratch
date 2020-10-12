@@ -5,4 +5,4 @@ CNN model from scratch with 98% accuracy build with fruits dataset on kaggle  ht
 
 <img src="https://github.com/Alexamannn/CNN_from_scratch/blob/main/result-1.png" alt="Train vs valdiation loss"/>
 
-<img src="https://github.com/Alexamannn/CNN_from_scratch/blob/main/result-1.png" alt="Train vs valdiation accuracy"/>
+<img src="https://github.com/Alexamannn/CNN_from_scratch/blob/main/result-2.png" alt="Train vs valdiation accuracy"/>
