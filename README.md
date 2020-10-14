@@ -3,7 +3,7 @@ CNN model from scratch build with fruits dataset on kaggle  https://www.kaggle.c
 
 Architectures Implemented from scratch
 
-# Custom Architecture
+# Custom Basic Architecture
 INPUT-CNN-MAXPOOL-CNN-MAXPOOL-CNN-MAXPOOL-FLATTEN-OUTPUT 
 
 <h2> Results-Overfitting/Underfitting check </h2>
