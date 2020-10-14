@@ -19,9 +19,10 @@ INPUT-CNN-MAXPOOL-CNN-MAXPOOL-CNN-MAXPOOL-FLATTEN-OUTPUT
 
 <img src="https://github.com/Alexamannn/CNN_from_scratch/blob/main/results/vgg16-2.png"/>
 
-# AlexNet
-<h2> Results-Overfitting/Underfitting check </h2>
+# Custom CNN predictions
 
-<img src="https://github.com/Alexamannn/CNN_from_scratch/blob/main/results/alexnet1.png" alt="Train vs valdiation loss"/>
 
-<img src="https://github.com/Alexamannn/CNN_from_scratch/blob/main/results/alexnet2.png"/>
+<img src="https://github.com/Alexamannn/CNN_from_scratch/blob/main/results/CNN%20custom%20pred.png" alt="Train vs valdiation loss"/>
+
+# VGG13 predictions
+<img src="https://github.com/Alexamannn/CNN_from_scratch/blob/main/results/vgg13%20pred.png"/>
