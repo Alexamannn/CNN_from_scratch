@@ -12,7 +12,7 @@ INPUT-CNN-MAXPOOL-CNN-MAXPOOL-CNN-MAXPOOL-FLATTEN-OUTPUT
 
 <img src="https://github.com/Alexamannn/CNN_from_scratch/blob/main/results/customcnn-2.png" alt="Train vs valdiation accuracy"/>
 
-# VGG16
+# VGG13
 <h2> Results-Overfitting/Underfitting check </h2>
 
 <img src="https://github.com/Alexamannn/CNN_from_scratch/blob/main/results/vgg16-1.png" alt="Train vs valdiation loss"/>
